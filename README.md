@@ -26,6 +26,7 @@ description: From　ゼロ　to　 一
 | お久しぶり（お） | Long time no see |  |
 | 久しぶり（ひさしぶり） |  |  |
 | さん |  |  |
+| 私（わたし） |  |  |
 
 ### 片仮名　カタカナ
 
@@ -45,6 +46,8 @@ description: From　ゼロ　to　 一
 | :--- | :--- | :--- |
 | Noun　です |  |  |
 | Item/service that you want　お願いします |  |  |
+| （A）は（B）です |  |  |
+|  |  |  |
 |  |  |  |
 
 ## Sentence
@@ -54,6 +57,7 @@ description: From　ゼロ　to　 一
 | よろしくお願いします （よろしくおねがいします） |  |  |
 | 初めまして（はじめまし） |  |  |
 | どういたしまして | You're welcome. Don't mention it. |  |
+|  |  |  |
 
 
 
