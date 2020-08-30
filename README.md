@@ -32,12 +32,16 @@ description: From　ゼロ　to　 一
 | 羊羹 |  |  |
 | うわ |  |  |
 | すごい | Amazing |  |
+| どうも | Thanks |  |
+|  |  |  |
 
-| Where |  |
-| :--- | :--- |
-| これ |  |
-| それ |  |
-|  |  |
+| Where |  |  |
+| :--- | :--- | :--- |
+| これ | どこ |  |
+| それ | いつ |  |
+|  | 何時（なんじ） | あそこ |
+|  | どう |  |
+|  |  |  |
 
 ### 片仮名　カタカナ
 
@@ -45,6 +49,7 @@ description: From　ゼロ　to　 一
 | :--- | :--- | :--- |
 | メニュー | Menu |  |
 | ミートローフ | Meat loaf |  |
+| トイレ | Bathroom |  |
 
 ### 漢字　かんじ
 
@@ -72,6 +77,8 @@ description: From　ゼロ　to　 一
 | Noun　です |  |  |
 | Item/service that you want　お願いします |  |  |
 | （A）は（B）です |  |  |
+| （A）は　Question ですか |  |  |
+|  |  |  |
 | Noun　の　Noun　です |  |  |
 | なん　です　か |  |  |
 | Noun　は　大丈夫です　か |  |  |
