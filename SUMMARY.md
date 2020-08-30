@@ -1,4 +1,4 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [日本語お学ぶ](README.md)
 
