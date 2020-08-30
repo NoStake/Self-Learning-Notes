@@ -14,8 +14,13 @@ description: From　ゼロ　to　 一
 | 今日わ（こんにちわ） | Hello | Hello |
 | 今晩わこんばんわ | Good evening | 早抖/晚安 |
 | 初めましてはじめまして | Nice to you |  |
-| よろしくお願いします |  |  |
-|  |  |  |
+| よろしくお願いします  |  |  |
+| おみやげ | Small gift, Souvenir |  |
+| ありがとうございます | Thank you |  |
+| どういたしまして | You're welcome. Don't mention it. |  |
+| すみません |  |  |
+| あし |  |  |
+| はい |  |  |
 
 ### 片仮名　カタカナ
 
@@ -31,7 +36,10 @@ description: From　ゼロ　to　 一
 
 ## Grammer
 
-
+| 日本語 | English | 香港語 |
+| :--- | :--- | :--- |
+| Noun　です |  |  |
+|  |  |  |
 
 ## Sentence
 
