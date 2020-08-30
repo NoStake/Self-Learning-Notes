@@ -30,7 +30,8 @@ description: From　ゼロ　to　 一
 | いえいえ |  |  |
 | どうぞ | Go ahead, here you are |  |
 | 羊羹 |  |  |
-|  |  |  |
+| うわ |  |  |
+| すごい | Amazing |  |
 
 | Where |  |
 | :--- | :--- |
@@ -69,7 +70,7 @@ description: From　ゼロ　to　 一
 | Item/service that you want　お願いします |  |  |
 | （A）は（B）です |  |  |
 | Noun　の　Noun　です |  |  |
-|  |  |  |
+| なん　です　か |  |  |
 |  |  |  |
 
 ## Sentence
@@ -81,6 +82,9 @@ description: From　ゼロ　to　 一
 | どういたしまして | You're welcome. Don't mention it. |  |
 | そうです |  |  |
 | おじゃまします | Excuse me for disturbing \(interrupting\) you |  |
+| いただきます |  |  |
+| おいしい |  |  |
+|  |  |  |
 
 ## Special
 
