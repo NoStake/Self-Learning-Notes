@@ -30,6 +30,7 @@ description: From　ゼロ　to　 一
 | いえいえ |  |  |
 | どうぞ | Go ahead, here you are |  |
 | 羊羹 |  |  |
+|  |  |  |
 
 | Where |  |
 | :--- | :--- |
@@ -53,6 +54,12 @@ description: From　ゼロ　to　 一
 | 魚（さかな） |  |
 | ようかん | Soft sweet red bean jelly |
 | 肉 |  |
+|  |  |
+| 犬（いぬ） |  |
+| 車（くるま） |  |
+| 家（いえ） |  |
+|  |  |
+|  |  |
 
 ## Grammer
 
@@ -61,6 +68,7 @@ description: From　ゼロ　to　 一
 | Noun　です |  |  |
 | Item/service that you want　お願いします |  |  |
 | （A）は（B）です |  |  |
+| Noun　の　Noun　です |  |  |
 |  |  |  |
 |  |  |  |
 
@@ -72,7 +80,7 @@ description: From　ゼロ　to　 一
 | 初めまして（はじめまし） |  |  |
 | どういたしまして | You're welcome. Don't mention it. |  |
 | そうです |  |  |
-|  |  |  |
+| おじゃまします | Excuse me for disturbing \(interrupting\) you |  |
 
 ## Special
 
