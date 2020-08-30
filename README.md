@@ -44,6 +44,7 @@ description: From　ゼロ　to　 一
 | 日本語 | English | 香港 |
 | :--- | :--- | :--- |
 | メニュー | Menu |  |
+| ミートローフ | Meat loaf |  |
 
 ### 漢字　かんじ
 
@@ -55,10 +56,12 @@ description: From　ゼロ　to　 一
 | 魚（さかな） |  |
 | ようかん | Soft sweet red bean jelly |
 | 肉 |  |
-|  |  |
 | 犬（いぬ） |  |
 | 車（くるま） |  |
 | 家（いえ） |  |
+| 大丈夫だいじょうぶ |  |
+| 今日（きょう） |  |
+| 明日（あした） |  |
 |  |  |
 |  |  |
 
@@ -71,6 +74,8 @@ description: From　ゼロ　to　 一
 | （A）は（B）です |  |  |
 | Noun　の　Noun　です |  |  |
 | なん　です　か |  |  |
+| Noun　は　大丈夫です　か |  |  |
+|  |  |  |
 |  |  |  |
 
 ## Sentence
