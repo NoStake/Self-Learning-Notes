@@ -13,11 +13,8 @@ description: From　ゼロ　to　 一
 |  | Good morning | 早晨 |
 | 今日わ（こんにちわ） | Hello | Hello |
 | 今晩わこんばんわ | Good evening | 早抖/晚安 |
-| 初めまして（はじめまし） | Nice to you |  |
-| よろしくお願いします （よろしくおねがいします） |  |  |
 | おみやげ | Small gift, Souvenir |  |
 | ありがとうございます | Thank you |  |
-| どういたしまして | You're welcome. Don't mention it. |  |
 | すみません |  |  |
 | あし |  |  |
 | はい |  |  |
@@ -52,7 +49,11 @@ description: From　ゼロ　to　 一
 
 ## Sentence
 
-## 
+| 日本語 | English |  |
+| :--- | :--- | :--- |
+| よろしくお願いします （よろしくおねがいします） |  |  |
+| 初めまして（はじめまし） |  |  |
+| どういたしまして | You're welcome. Don't mention it. |  |
 
 
 
